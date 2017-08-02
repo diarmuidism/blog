@@ -1,0 +1,84 @@
+title: Diarmuidword
+description: A place for me to write about how I see the world.
+reading_time:     true
+words_per_minute: 200
+url: https://nelsonmestevao.github.io/test1
+
+# Owner/author information
+owner:
+  name: Diarmuid Gillingham
+  avatar: diarmuid-gillingham.jpg
+  bio: "Despite the English surname I live in Ireland. I am 21 years of age, I  study German and Economics in University College Cork in Ireland. As you will soon find out my three major passions in life are photography, blogging and football."
+  email:
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: Diarmuid_mufc
+  facebook: Diarmuidism
+  github:
+  stackexchange:
+  linkedin: diarmuid-gillingham-434450113
+  instagram: diarmuidism
+  flickr:
+  tumblr:
+  google_plus:
+
+# Background image to be tiled on all pages
+background:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Dublin
+future:      false  # publish future dated posts --  true, false (default)
+highlighter: rouge
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
