@@ -1,8 +1,4 @@
-﻿---
-
----
-
-<center>
+﻿ <center>
 <img src="{{ site.url }}/assets/img/diarmuid-gillingham.jpg" style="border-radius: 50%;" height="200" alt="diarmuid-gillingham">
 </center>
 
