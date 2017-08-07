@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: About Me
-reading_time: 5 Minutes
+reading_time:
 image:
   background: photography.png
 ---
