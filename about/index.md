@@ -1,9 +1,5 @@
 ﻿---
-layout: page
-title: About Me
-reading_time:
-image:
-  background: photography.png
+
 ---
 
 <center>
