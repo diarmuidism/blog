@@ -3,7 +3,7 @@ layout: post
 title: "Six Tips To Help You Take Better Photos"
 description: "Hi, guys. In life, there is always room to improve and photography is no different. Whether you are just starting or you are an expert. So, here are 5 tips that will help you become a better photographer if you are just using your phone or you are somebody who has been shooting for years. "
 modified: 2017-08-07
-tags: [Photography] [Lists]
+tags: [Photography,Lists]
 image:
   feature: /posts/Prague-Blog.png
   credit: DiarmuidGraphy
