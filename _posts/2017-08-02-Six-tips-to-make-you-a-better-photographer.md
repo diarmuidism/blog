@@ -7,7 +7,7 @@ tags: [Photography] [Lists]
 image:
   feature: /posts/Prague-Blog.png
   credit: DiarmuidGraphy
-  # creditlink: https://www.instagram.com/p/BS6ZRJzlQZ8/?hl=en&taken-by=diarmuidgraphy
+  creditlink: https://www.instagram.com/p/BS6ZRJzlQZ8/?hl=en&taken-by=diarmuidgraphy
 ---
 
 ## 6 Tips To Help You Take Better Photos
