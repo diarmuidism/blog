@@ -1,9 +1,0 @@
-layout: post
-title: "Is University Worth it?"
-description: "Education is something that is important to all of us. Whether you’re somebody who didn’t finish high school or somebody who did go to University and not only got their bachelor but masters and PhD as well. Our time in education plays a massive role in how we see ourselves, our careers and much of the world around us. It is education where we got some of our first experiences of friendship and love as well as confusion and worry about our future. In this piece, I am going to speak about my own experiences in University and discuss both the pros and cons of attending an institution that can be seen as the most important decision in many people’s lives. Finally, I will finish with a conclusion."
-modified: 2017-08-17
-tags: [Education]
-image:
-  feature: /posts/cole-keister-291568.jpg
-  credit: Cole Keister
-  creditlink: https://unsplash.com/photos/vEgVWRBr2VY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
