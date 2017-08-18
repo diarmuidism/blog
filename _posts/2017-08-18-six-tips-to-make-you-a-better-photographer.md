@@ -1,4 +1,13 @@
-6 Tips to Make You a Better Photographer
+layout: post
+title: "6 Tips to Make You a Better Photographer"
+
+description: "Hi, guys. In life, there is always room to improve and photography is no different. Whether you are just starting or you are an expert. So, here are 5 tips that will help you become a better photographer if you are just using your phone or you are somebody who has been shooting for years."
+modified: 2017-08-18
+tags: [Photography, Tips For You]
+image:
+  feature: /posts/6-tips.jpg
+  credit: Diarmuidgraphy
+  creditlink: https://www.facebook.com/DiarmuidGillinghamsPhotography/photos/a.559026934142592.1073741826.559023770809575/1644568848921723/
 
 "Hi, guys. In life, there is always room to improve and photography is no different. Whether you are just starting or you are an expert. So, here are 5 tips that will help you become a better photographer if you are just using your phone or you are somebody who has been shooting for years."
 
